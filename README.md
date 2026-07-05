@@ -39,3 +39,4 @@ feat: solve <название задачи> (<источник>)
 | Задача | Тема | Источник | Сложность | Решение | Заметки |
 | --- | --- | --- | --- | --- | --- |
 | Remove Element | arrays | LeetCode #27 | Easy | [solution.js](arrays/remove-element/solution.js) | Two pointers (slow/fast) |
+| Find the Index of the First Occurrence in a String | strings | LeetCode #28 | Easy | [solution.js](strings/find-the-index-of-the-first-occurrence-in-a-string/solution.js) | Brute force O(n·m) |
