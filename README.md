@@ -38,4 +38,4 @@ feat: solve <название задачи> (<источник>)
 
 | Задача | Тема | Источник | Сложность | Решение | Заметки |
 | --- | --- | --- | --- | --- | --- |
-| | | | | | |
+| Remove Element | arrays | LeetCode #27 | Easy | [solution.js](arrays/remove-element/solution.js) | Two pointers (slow/fast) |
