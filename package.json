@@ -1,0 +1,10 @@
+{
+  "name": "algo-gym",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Решения алгоритмических задач на JS",
+  "scripts": {
+    "new": "node scripts/new-problem.js"
+  }
+}
