@@ -45,4 +45,4 @@ feat: solve <название задачи> (<источник>)
 | Plus One | math | LeetCode #66 | Easy | [solution.js](math/plus-one/solution.js) | Carry propagation, in-place |
 | Add Binary | bit-manipulation | LeetCode #67 | Easy | [solution.js](bit-manipulation/add-binary/solution.js) | Column addition with carry, base 2 |
 | Sqrt(x) | binary-search | LeetCode #69 | Easy | [solution.js](binary-search/sqrt-x/solution.js) | Binary search over the answer |
-| Sqrt(x) | binary-search | LeetCode #69 | Easy | [solution.js](binary-search/sqrt-x/solution.js) | Binary search over the answer |
+| Climbing Stairs | dynamic-programming | LeetCode #70 | Easy | [solution.js](dynamic-programming/climbing-stairs/solution.js) | Bottom-up DP, O(1) space |
