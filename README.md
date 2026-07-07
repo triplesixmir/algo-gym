@@ -48,3 +48,4 @@ feat: solve <название задачи> (<источник>)
 | Climbing Stairs | dynamic-programming | LeetCode #70 | Easy | [solution.js](dynamic-programming/climbing-stairs/solution.js) | Bottom-up DP, O(1) space |
 | Remove Duplicates from Sorted List | linked-list | LeetCode #83 | Easy | [solution.js](linked-list/remove-duplicates-from-sorted-list/solution.js) | Single pass, in-place |
 | Merge Sorted Array | arrays | LeetCode #88 | Easy | [solution.js](arrays/merge-sorted-array/solution.js) | Three pointers, merge from the back |
+| Merge Strings Alternately | strings | LeetCode #1768 | Easy | [solution.js](strings/merge-strings-alternately/solution.js) | Single pass over max length |
