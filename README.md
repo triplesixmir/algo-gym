@@ -53,3 +53,4 @@ feat: solve <название задачи> (<источник>)
 | Kids With the Greatest Number of Candies | arrays | LeetCode #1431 | Easy | [solution.js](arrays/kids-with-the-greatest-number-of-candies/solution.js) | Precompute max, single pass |
 | Can Place Flowers | greedy | LeetCode #605 | Easy | [solution.js](greedy/can-place-flowers/solution.js) | Greedy left-to-right, treat out-of-bounds as empty |
 | Reverse Vowels of a String | strings | LeetCode #345 | Easy | [solution.js](strings/reverse-vowels-of-a-string/solution.js) | Two pointers + Set lookup |
+| Move Zeroes | arrays | LeetCode #283 | Easy | [solution.js](arrays/move-zeroes/solution.js) | Two pointers, swap in-place |
