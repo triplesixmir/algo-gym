@@ -51,3 +51,4 @@ feat: solve <название задачи> (<источник>)
 | Merge Strings Alternately | strings | LeetCode #1768 | Easy | [solution.js](strings/merge-strings-alternately/solution.js) | Single pass over max length |
 | Greatest Common Divisor of Strings | strings | LeetCode #1071 | Easy | [solution.js](strings/gcd-of-strings/solution.js) | Concatenation check + GCD of lengths |
 | Kids With the Greatest Number of Candies | arrays | LeetCode #1431 | Easy | [solution.js](arrays/kids-with-the-greatest-number-of-candies/solution.js) | Precompute max, single pass |
+| Can Place Flowers | greedy | LeetCode #605 | Easy | [solution.js](greedy/can-place-flowers/solution.js) | Greedy left-to-right, treat out-of-bounds as empty |
