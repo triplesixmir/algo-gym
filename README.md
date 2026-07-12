@@ -54,3 +54,4 @@ feat: solve <название задачи> (<источник>)
 | Can Place Flowers | greedy | LeetCode #605 | Easy | [solution.js](greedy/can-place-flowers/solution.js) | Greedy left-to-right, treat out-of-bounds as empty |
 | Reverse Vowels of a String | strings | LeetCode #345 | Easy | [solution.js](strings/reverse-vowels-of-a-string/solution.js) | Two pointers + Set lookup |
 | Move Zeroes | arrays | LeetCode #283 | Easy | [solution.js](arrays/move-zeroes/solution.js) | Two pointers, swap in-place |
+| Is Subsequence | strings | LeetCode #392 | Easy | [solution.js](strings/is-subsequence/solution.js) | Two pointers |
