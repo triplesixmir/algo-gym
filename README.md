@@ -55,3 +55,4 @@ feat: solve <название задачи> (<источник>)
 | Reverse Vowels of a String | strings | LeetCode #345 | Easy | [solution.js](strings/reverse-vowels-of-a-string/solution.js) | Two pointers + Set lookup |
 | Move Zeroes | arrays | LeetCode #283 | Easy | [solution.js](arrays/move-zeroes/solution.js) | Two pointers, swap in-place |
 | Is Subsequence | strings | LeetCode #392 | Easy | [solution.js](strings/is-subsequence/solution.js) | Two pointers |
+| Maximum Average Subarray I | arrays | LeetCode #643 | Easy | [solution.js](arrays/maximum-average-subarray-i/solution.js) | Sliding window, fixed size |
