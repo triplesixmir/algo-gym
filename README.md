@@ -56,3 +56,4 @@ feat: solve <название задачи> (<источник>)
 | Move Zeroes | arrays | LeetCode #283 | Easy | [solution.js](arrays/move-zeroes/solution.js) | Two pointers, swap in-place |
 | Is Subsequence | strings | LeetCode #392 | Easy | [solution.js](strings/is-subsequence/solution.js) | Two pointers |
 | Maximum Average Subarray I | arrays | LeetCode #643 | Easy | [solution.js](arrays/maximum-average-subarray-i/solution.js) | Sliding window, fixed size |
+| Find the Highest Altitude | arrays | LeetCode #1732 | Easy | [solution.js](arrays/find-the-highest-altitude/solution.js) | Prefix sum + running max |
