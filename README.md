@@ -57,3 +57,4 @@ feat: solve <название задачи> (<источник>)
 | Is Subsequence | strings | LeetCode #392 | Easy | [solution.js](strings/is-subsequence/solution.js) | Two pointers |
 | Maximum Average Subarray I | arrays | LeetCode #643 | Easy | [solution.js](arrays/maximum-average-subarray-i/solution.js) | Sliding window, fixed size |
 | Find the Highest Altitude | arrays | LeetCode #1732 | Easy | [solution.js](arrays/find-the-highest-altitude/solution.js) | Prefix sum + running max |
+| Find Pivot Index | arrays | LeetCode #724 | Easy | [solution.js](arrays/find-pivot-index/solution.js) | Total sum minus running left sum |
