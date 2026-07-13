@@ -58,3 +58,4 @@ feat: solve <название задачи> (<источник>)
 | Maximum Average Subarray I | arrays | LeetCode #643 | Easy | [solution.js](arrays/maximum-average-subarray-i/solution.js) | Sliding window, fixed size |
 | Find the Highest Altitude | arrays | LeetCode #1732 | Easy | [solution.js](arrays/find-the-highest-altitude/solution.js) | Prefix sum + running max |
 | Find Pivot Index | arrays | LeetCode #724 | Easy | [solution.js](arrays/find-pivot-index/solution.js) | Total sum minus running left sum |
+| Find the Difference of Two Arrays | arrays | LeetCode #2215 | Easy | [solution.js](arrays/find-the-difference-of-two-arrays/solution.js) | Set.prototype.difference() |
