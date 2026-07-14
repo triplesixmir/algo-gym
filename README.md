@@ -62,3 +62,4 @@ feat: solve <название задачи> (<источник>)
 | Unique Number of Occurrences | arrays | LeetCode #1207 | Easy | [solution.js](arrays/unique-number-of-occurrences/solution.js) | Map for frequency + Set for uniqueness |
 | Missing Number | math | Solvit | Easy | [solution.js](math/missing-number/solution.js) | Gauss sum formula |
 | Number of Recent Calls | stacks-queues | LeetCode #933 | Easy | [solution.js](stacks-queues/number-of-recent-calls/solution.js) | Sliding window via head pointer |
+| Reverse Linked List | linked-list | LeetCode #206 | Easy | [solution.js](linked-list/reverse-linked-list/solution.js) | Iterative reverse, three pointers |
