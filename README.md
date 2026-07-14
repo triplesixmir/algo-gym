@@ -61,3 +61,4 @@ feat: solve <название задачи> (<источник>)
 | Find the Difference of Two Arrays | arrays | LeetCode #2215 | Easy | [solution.js](arrays/find-the-difference-of-two-arrays/solution.js) | Set.prototype.difference() |
 | Unique Number of Occurrences | arrays | LeetCode #1207 | Easy | [solution.js](arrays/unique-number-of-occurrences/solution.js) | Map for frequency + Set for uniqueness |
 | Missing Number | math | Solvit | Easy | [solution.js](math/missing-number/solution.js) | Gauss sum formula |
+| Number of Recent Calls | stacks-queues | LeetCode #933 | Easy | [solution.js](stacks-queues/number-of-recent-calls/solution.js) | Sliding window via head pointer |
