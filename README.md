@@ -66,3 +66,4 @@ feat: solve <название задачи> (<источник>)
 | Guess Number Higher or Lower | binary-search | LeetCode #374 | Easy | [solution.js](binary-search/guess-number-higher-or-lower/solution.js) | Binary search over external API |
 | Convert Sorted Array to Binary Search Tree | trees | LeetCode #108 | Easy | [solution.js](trees/convert-sorted-array-to-binary-search-tree/solution.js) | Recursive divide and conquer |
 | Pascal's Triangle | dynamic-programming | LeetCode #118 | Easy | [solution.js](dynamic-programming/pascals-triangle/solution.js) | Recursive, build on previous row |
+| Pascal's Triangle II | dynamic-programming | LeetCode #119 | Easy | [solution.js](dynamic-programming/pascals-triangle-ii/solution.js) | Iterative, O(rowIndex) space |
