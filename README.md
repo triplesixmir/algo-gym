@@ -64,3 +64,4 @@ feat: solve <название задачи> (<источник>)
 | Number of Recent Calls | stacks-queues | LeetCode #933 | Easy | [solution.js](stacks-queues/number-of-recent-calls/solution.js) | Sliding window via head pointer |
 | Reverse Linked List | linked-list | LeetCode #206 | Easy | [solution.js](linked-list/reverse-linked-list/solution.js) | Iterative reverse, three pointers |
 | Guess Number Higher or Lower | binary-search | LeetCode #374 | Easy | [solution.js](binary-search/guess-number-higher-or-lower/solution.js) | Binary search over external API |
+| Convert Sorted Array to Binary Search Tree | trees | LeetCode #108 | Easy | [solution.js](trees/convert-sorted-array-to-binary-search-tree/solution.js) | Recursive divide and conquer |
