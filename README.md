@@ -67,3 +67,4 @@ feat: solve <название задачи> (<источник>)
 | Convert Sorted Array to Binary Search Tree | trees | LeetCode #108 | Easy | [solution.js](trees/convert-sorted-array-to-binary-search-tree/solution.js) | Recursive divide and conquer |
 | Pascal's Triangle | dynamic-programming | LeetCode #118 | Easy | [solution.js](dynamic-programming/pascals-triangle/solution.js) | Recursive, build on previous row |
 | Pascal's Triangle II | dynamic-programming | LeetCode #119 | Easy | [solution.js](dynamic-programming/pascals-triangle-ii/solution.js) | Iterative, O(rowIndex) space |
+| First Bad Version | binary-search | LeetCode #278 | Easy | [solution.js](binary-search/first-bad-version/solution.js) | Binary search for first true |
