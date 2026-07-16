@@ -69,3 +69,4 @@ feat: solve <название задачи> (<источник>)
 | Pascal's Triangle II | dynamic-programming | LeetCode #119 | Easy | [solution.js](dynamic-programming/pascals-triangle-ii/solution.js) | Iterative, O(rowIndex) space |
 | First Bad Version | binary-search | LeetCode #278 | Easy | [solution.js](binary-search/first-bad-version/solution.js) | Binary search for first true |
 | Intersection of Two Arrays | arrays | LeetCode #349 | Easy | [solution.js](arrays/intersection-of-two-arrays/solution.js) | Set + explicit loop (Set.intersection() as alt.) |
+| Intersection of Two Arrays II | arrays | LeetCode #350 | Easy | [solution.js](arrays/intersection-of-two-arrays-ii/solution.js) | Two pointers after sort |
