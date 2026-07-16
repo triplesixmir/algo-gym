@@ -68,3 +68,4 @@ feat: solve <название задачи> (<источник>)
 | Pascal's Triangle | dynamic-programming | LeetCode #118 | Easy | [solution.js](dynamic-programming/pascals-triangle/solution.js) | Recursive, build on previous row |
 | Pascal's Triangle II | dynamic-programming | LeetCode #119 | Easy | [solution.js](dynamic-programming/pascals-triangle-ii/solution.js) | Iterative, O(rowIndex) space |
 | First Bad Version | binary-search | LeetCode #278 | Easy | [solution.js](binary-search/first-bad-version/solution.js) | Binary search for first true |
+| Intersection of Two Arrays | arrays | LeetCode #349 | Easy | [solution.js](arrays/intersection-of-two-arrays/solution.js) | Set + explicit loop (Set.intersection() as alt.) |
