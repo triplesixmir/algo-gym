@@ -70,3 +70,4 @@ feat: solve <название задачи> (<источник>)
 | First Bad Version | binary-search | LeetCode #278 | Easy | [solution.js](binary-search/first-bad-version/solution.js) | Binary search for first true |
 | Intersection of Two Arrays | arrays | LeetCode #349 | Easy | [solution.js](arrays/intersection-of-two-arrays/solution.js) | Set + explicit loop (Set.intersection() as alt.) |
 | Intersection of Two Arrays II | arrays | LeetCode #350 | Easy | [solution.js](arrays/intersection-of-two-arrays-ii/solution.js) | Two pointers after sort |
+| Majority Element | arrays | LeetCode #169 | Easy | [solution.js](arrays/majority-element/solution.js) | Boyer-Moore Voting Algorithm |
