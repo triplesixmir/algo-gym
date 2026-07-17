@@ -72,4 +72,3 @@ feat: solve <название задачи> (<источник>)
 | Intersection of Two Arrays II | arrays | LeetCode #350 | Easy | [solution.js](arrays/intersection-of-two-arrays-ii/solution.js) | Two pointers after sort |
 | Majority Element | arrays | LeetCode #169 | Easy | [solution.js](arrays/majority-element/solution.js) | Boyer-Moore Voting Algorithm |
 | Contains Duplicate | arrays | LeetCode #217 | Easy | [solution.js](arrays/contains-duplicate/solution.js) | Set with early return (sort as alt.) |
-| Contains Duplicate | arrays | LeetCode #217 | Easy | [solution.js](arrays/contains-duplicate/solution.js) | Set with early return (sort as alt.) |
