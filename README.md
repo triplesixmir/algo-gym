@@ -73,3 +73,4 @@ feat: solve <название задачи> (<источник>)
 | Majority Element | arrays | LeetCode #169 | Easy | [solution.js](arrays/majority-element/solution.js) | Boyer-Moore Voting Algorithm |
 | Contains Duplicate | arrays | LeetCode #217 | Easy | [solution.js](arrays/contains-duplicate/solution.js) | Set with early return (sort as alt.) |
 | Valid Anagram | strings | LeetCode #242 | Easy | [solution.js](strings/valid-anagram/solution.js) | Two frequency maps (sort as alt.) |
+| Construct the Rectangle | math | LeetCode #492 | Easy | [solution.js](math/construct-the-rectangle/solution.js) | Search divisors from sqrt(area) down |
