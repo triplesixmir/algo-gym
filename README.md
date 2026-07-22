@@ -76,3 +76,4 @@ feat: solve <название задачи> (<источник>)
 | Construct the Rectangle | math | LeetCode #492 | Easy | [solution.js](math/construct-the-rectangle/solution.js) | Search divisors from sqrt(area) down |
 | Number of Rectangles That Can Form the Largest Square | arrays | LeetCode #1725 | Easy | [solution.js](arrays/number-of-rectangles-that-can-form-the-largest-square/solution.js) | Single pass + frequency map |
 | Minimum Recolors to Get K Consecutive Black Blocks | strings | LeetCode #2379 | Easy | [solution.js](strings/minimum-recolors-to-get-k-consecutive-black-blocks/solution.js) | Sliding window, fixed size |
+| Happy Number | math | LeetCode #202 | Easy | [solution.js](math/happy-number/solution.js) | Recursion + Set for cycle detection |
