@@ -81,3 +81,4 @@ feat: solve <название задачи> (<источник>)
 | 41 | Isomorphic Strings | strings | LeetCode #205 | Easy | [solution.js](strings/isomorphic-strings/solution.js) | Compare first-occurrence indices |
 | 42 | Hamming Distance | bit-manipulation | LeetCode #461 | Easy | [solution.js](bit-manipulation/hamming-distance/solution.js) | XOR + count set bits |
 | 43 | Island Perimeter | graphs | LeetCode #463 | Easy | [solution.js](graphs/island-perimeter/solution.js) | Single pass, count open edges |
+| 44 | Number Complement | bit-manipulation | LeetCode #476 | Easy | [solution.js](bit-manipulation/number-complement/solution.js) | Flip binary digits, parseInt back |
