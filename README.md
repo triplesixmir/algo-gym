@@ -79,3 +79,4 @@ feat: solve <название задачи> (<источник>)
 | Happy Number | math | LeetCode #202 | Easy | [solution.js](math/happy-number/solution.js) | Recursion + Set for cycle detection |
 | Remove Linked List Elements | linked-list | LeetCode #203 | Easy | [solution.js](linked-list/remove-linked-list-elements/solution.js) | Dummy head node |
 | Isomorphic Strings | strings | LeetCode #205 | Easy | [solution.js](strings/isomorphic-strings/solution.js) | Compare first-occurrence indices |
+| Hamming Distance | bit-manipulation | LeetCode #461 | Easy | [solution.js](bit-manipulation/hamming-distance/solution.js) | XOR + count set bits |
